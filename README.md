@@ -1,5 +1,11 @@
 # Cylc 8 Conda Installation Instructions 
 
+> **Deprecated:**
+>
+> These recipes have now been released on Conda Forge.
+> 
+> https://cylc.github.io/cylc-doc/latest/html/installation.html
+
 Conda recipe to install the `cylc-8.0a1` alpha-1 preview release of Cylc 8.
 
 - [Cylc Website](https://cylc.github.io)
